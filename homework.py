@@ -1,5 +1,3 @@
-def devolverString(str):
-  return str
 
 def suma(x, y):
   suma = x + y
@@ -17,4 +15,4 @@ def divide(x, y):
     dividir = x / y
     return dividir
 
-print("Probar script FIN")
+#print("Probar script FIN")

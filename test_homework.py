@@ -4,7 +4,7 @@ import unittest
 
 class TestingMethods(unittest.TestCase):
   def test_suma(self):
-    self.assertEqual(suma(1, 2), 3, "La suma NO es correcta")
+    self.assertEqual(suma(1, 2), 3, "La suma NO funciono")
   def test_resta(self):
     self.assertEqual(resta(2, 1), 1, "La resta NO es correcta")
   def test_multiplica(self):

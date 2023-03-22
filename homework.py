@@ -15,4 +15,3 @@ def divide(x, y):
     dividir = x / y
     return dividir
 
-#print("Probar script FIN")

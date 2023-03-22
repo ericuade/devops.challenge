@@ -1,4 +1,4 @@
-# Proyecto de integracion continua con Jenkins
+# Proyecto de integracion continua con Jenkins y proximamente con Despliegue continuo con Bitbucket pipelines.
 
 Github Actions
 

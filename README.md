@@ -17,6 +17,9 @@ URL de acceso y Mail donde se van a recibir los correos
 
 User y pass: devops.challenge@it-dev.ar , Devops2023
 
-# Bitbucket Pipelines EXAMPLES
+# Otros Ejemplos de Bitbucket Pipelines
 
 [SCP Deploy](https://bitbucket.org/test-pipelines2/example-scp-deploy/src/master/)
+[AWS S3 Deploy](https://bitbucket.org/test-pipelines2/example-aws-s3-deploy/src/master/)
+[Build and Test Javascript Code](https://bitbucket.org/test-pipelines2/javascript-homework/src/master/)
+[Dotnet Core app Build](https://bitbucket.org/test-pipelines2/asp-netcore-pipeline/src/master/)

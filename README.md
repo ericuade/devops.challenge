@@ -16,3 +16,7 @@ URL de acceso y Mail donde se van a recibir los correos
 [Mail Access](https://it-dev.ar:2096/cpsess4739002919/3rdparty/roundcube/?_task=mail&_mbox=INBOX)
 
 User y pass: devops.challenge@it-dev.ar , Devops2023
+
+# Bitbucket Pipelines EXAMPLES
+
+[SCP Deploy](https://bitbucket.org/test-pipelines2/example-scp-deploy/src/master/)

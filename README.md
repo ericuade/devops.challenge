@@ -2,6 +2,8 @@
 
  El proyecto se encuentra en constante desarrollo y abierto a la integración de herramientas de diversa índole,   como así también se da rienda suelta a la creatividad .Pudiendo haber distintos tipos de aplicaciones, deploy multibranch, o instancias en distintas Clouds. El mismo está enfocado en demostrar la mayor cantidad posible de habilidades, integrando herramientas para distintas funciones, aun cuando con 1 sola podría hacerse ambas.
 
+Openshift Container Platform
+[Openshift](https://primer-export-primer-eogieglo-itdev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/)
 
 Github Actions
 

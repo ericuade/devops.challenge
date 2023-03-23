@@ -5,6 +5,9 @@
 Openshift Container Platform
 [Openshift](https://primer-export-primer-eogieglo-itdev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/)
 
+Nexus repository Manager
+[Nexus](http://nexus-eogieglo-itdev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/nexus/#welcome)
+
 Github Actions
 
 [ACTIONS](https://github.com/ericuade/devops.challenge/actions)

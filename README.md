@@ -5,13 +5,8 @@
 | Producto | Descripcion |
 |  ----------- | ----------- |
 | Openshift Container Platform | [Openshift](https://console-openshift-console.apps.sandbox-m3.1530.p1.openshiftapps.com/) |
-| Paragraph | Text |
+| Nexus repository Manager | [Nexus](http://nexus-eogieglo-itdev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/nexus/#welcome) |
 
-Openshift Container Platform
-
-
-Nexus repository Manager
-[Nexus](http://nexus-eogieglo-itdev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/nexus/#welcome)
 
 Github Actions
 

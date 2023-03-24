@@ -161,3 +161,6 @@ print("")
     Dadas dos cadenas de caracteres, indicar si la segunda cadena es una subcadena de la primera. 
     Por ejemplo, “sub” es una subcadena de “subcadena”
 """
+cadena1 = input("Ingrese cadena 1: ")
+cadena2 = input("Ingrese cadena 2: ")
+print("Es la cadena2 una subcadena de cadena1?", cadena2 in cadena1)

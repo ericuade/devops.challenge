@@ -5,7 +5,11 @@ En Github Actions configuramos los test para python 2 y 3 respectivamente, para 
 
 [ACTIONS](https://github.com/ericuade/devops.challenge/actions)
 
-URL de acceso y Mail donde se van a recibir los correos
+ - APPS:
+    - | repo | pipelines | web |
+      | ---- | --------- | --- |
+
+URL de acceso y Mail donde se van a recibir los correos y notificaciones de monitoreo de las APPs
 
 [Mail Access](https://it-dev.ar:2096/cpsess4739002919/3rdparty/roundcube/?_task=mail&_mbox=INBOX) User y pass: devops.challenge@it-dev.ar , Devops2023
 

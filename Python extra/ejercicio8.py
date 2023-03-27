@@ -17,8 +17,8 @@ print("")
     Marzo 2023.
 """
 mes = "Marzo"
-año_actual = 2023
-print(mes, año_actual)
+anio_actual = 2023
+print(mes, anio_actual)
 print("")
 
 

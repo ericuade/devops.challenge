@@ -5,6 +5,7 @@
 
 # A. Definir una variable y asignarle un valor numérico. Mostrar por consola. Por ej: miNumero=10 deberá mostrar el número 10.
 
+
 miNumero = 8
 print(miNumero)
 print(" ")

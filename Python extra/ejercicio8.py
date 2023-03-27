@@ -42,9 +42,9 @@ print("")
 """
 
 nombre="Juan"
-acción="estudia"
+accion="estudia"
 asunto="Python"
-print(nombre,acción,asunto)
+print(nombre,accion,asunto)
 print("")
 
 #Ejercicio 5

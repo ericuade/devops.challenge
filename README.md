@@ -7,9 +7,7 @@ En Github Actions configuramos los test para python 2 y 3 respectivamente, para 
 
 URL de acceso y Mail donde se van a recibir los correos
 
-[Mail Access](https://it-dev.ar:2096/cpsess4739002919/3rdparty/roundcube/?_task=mail&_mbox=INBOX)
-
-User y pass: devops.challenge@it-dev.ar , Devops2023
+[Mail Access](https://it-dev.ar:2096/cpsess4739002919/3rdparty/roundcube/?_task=mail&_mbox=INBOX) User y pass: devops.challenge@it-dev.ar , Devops2023
 
 # Otros Ejemplos de Bitbucket Pipelines
 

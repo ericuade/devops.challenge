@@ -8,6 +8,7 @@ En Github Actions configuramos los test para python 2 y 3 respectivamente, para 
  - APPS:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
+      | [NODE-APP](https://bitbucket.org/test-pipelines2/node-app/src/master/) | [Pipeline](https://bitbucket.org/test-pipelines2/node-app/pipelines/results/page/1)          |     |
 
 URL de acceso y Mail donde se van a recibir los correos y notificaciones de monitoreo de las APPs
 

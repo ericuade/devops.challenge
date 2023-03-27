@@ -152,7 +152,7 @@ print("")
     Dada una cadena de caracteres, devolver solamente las letras consonantes o las vocales.
     Mostrar por consola.
 """
-
+print("PENDIENTE")
 
 
 #Ejercicio 13. 

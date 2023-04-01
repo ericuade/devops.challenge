@@ -10,6 +10,14 @@ class User(BaseModel):
     Linkedin: str
     age: int
 
+def search_user(id: int):
+    users = filter(lambda users: users.id == id, users_list)
+    try:
+        return list(users)[0]
+    except:
+        return {"error":"Usuario no encontrado, por favor ingreselo"}
+
+
 users_list = [User(id=1,name="Eric", surname="Ogieglo", Linkedin="https://www.linkedin.com/in/eogieglo/", age=34),
  User(id=2,name="Eric", surname="Ogieglo", Linkedin="https://www.linkedin.com/in/eogieglo/", age=34),
  User(id=3,name="Eric", surname="Ogieglo", Linkedin="https://www.linkedin.com/in/eogieglo/", age=34)]
@@ -26,11 +34,13 @@ async def userclass():
 async def users():
     return users_list
 
+# Path
 @app.get("/user/{id}")
 async def user(id: int):
-    users = filter(lambda users: users.id == id, users_list)
-    try:
-        return list(users)[0]
-    except:
-        return {"error":"Usuario no encontrado, por favor ingreselo"}
-
+    return search_user(id)
+    
+# Query
+@app.get("/user/")
+async def user(id: int):
+   return search_user(id)
+    

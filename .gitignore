@@ -1,3 +1,4 @@
 # Linting
 .vscode/*
 Nodejs/node_modules/
+Python/api/bin/*

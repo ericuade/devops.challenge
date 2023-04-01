@@ -4,14 +4,15 @@ from pydantic import BaseModel
 app = FastAPI()
 
 class User(BaseModel):
+    id: int
     name: str
     surname: str
     Linkedin: str
     age: int
 
-users_list = [User(name="Eric", surname="Ogieglo", Linkedin="https://www.linkedin.com/in/eogieglo/", age=34),
- User(name="Eric", surname="Ogieglo", Linkedin="https://www.linkedin.com/in/eogieglo/", age=34),
- User(name="Eric", surname="Ogieglo", Linkedin="https://www.linkedin.com/in/eogieglo/", age=34)]
+users_list = [User(id=1,name="Eric", surname="Ogieglo", Linkedin="https://www.linkedin.com/in/eogieglo/", age=34),
+ User(id=2,name="Eric", surname="Ogieglo", Linkedin="https://www.linkedin.com/in/eogieglo/", age=34),
+ User(id=3,name="Eric", surname="Ogieglo", Linkedin="https://www.linkedin.com/in/eogieglo/", age=34)]
 
 @app.get("/users")
 async def users():
@@ -24,3 +25,12 @@ async def userclass():
 @app.get("/userslist")
 async def users():
     return users_list
+
+@app.get("/user/{id}")
+async def user(id: int):
+    users = filter(lambda users: users.id == id, users_list)
+    try:
+        return list(users)[0]
+    except:
+        return {"error":"Usuario no encontrado, por favor ingreselo"}
+

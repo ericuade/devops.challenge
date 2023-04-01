@@ -17,3 +17,4 @@ Hay requisitos previos que dependeran del entorno donde se ejecutan, por ejemplo
 - URL: http://localhost:8000/userclass
 - URL: http://localhost:8000/userslist
 - URL: http://localhost:8000/user/{id}
+- URL: http://localhost:8000/user/?id=int

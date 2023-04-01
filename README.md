@@ -1,3 +1,7 @@
+# El codigo python se testea con la version 3.10
+
+[ACTION](https://github.com/ericuade/devops.challenge/actions)
+
 # Proyecto de integracion continua y Despliegue continuo
 
  - APPS:

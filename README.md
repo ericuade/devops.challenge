@@ -5,7 +5,7 @@
   - **Web** :page_facing_up:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
-      | https://lnkd.in/dzdymabZ | https://lnkd.in/dmqsiAA3 |  http://it-dev.ar |
+      | [Servicios](https://lnkd.in/dzdymabZ) | [Pipeline](https://lnkd.in/dmqsiAA3) |  https://it-dev.ar |
 
  - **App**: :computer:
     - | repo | pipelines | web |

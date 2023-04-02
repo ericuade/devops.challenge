@@ -10,7 +10,7 @@
  - **API Python**: :computer:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
-      | [API]() | [Pipeline]() |    |
+      | [API](https://lnkd.in/dCprxyyh) | [Pipeline]() |    |
 
   - **Terraform** :earth_americas:
     - | repo | pipelines | web |
@@ -27,7 +27,7 @@
 
 ***
 
- - **Datadog Monitoreo** :milky_way:
+ - **Datadog Monitoreo** 	:chart_with_upwards_trend:
     - | User | pass | URL |
       | ---- | ---- | --- |
       | devops.challenge@it-dev.ar | yM!2ai39mwPN!vX | [Panel](https://lnkd.in/dJVPcz69) |
@@ -43,12 +43,6 @@ URL de acceso y Mail donde se van a recibir los correos y notificaciones de moni
 [Mail Access](https://it-dev.ar:2096/cpsess4739002919/3rdparty/roundcube/?_task=mail&_mbox=INBOX) User y pass: devops.challenge@it-dev.ar , Devops2023
 
 ***
-
-[SCP Deploy](https://bitbucket.org/test-pipelines2/example-scp-deploy/src/master/)
-[AWS S3 Deploy](https://bitbucket.org/test-pipelines2/example-aws-s3-deploy/src/master/)
-[Build and Test Javascript Code](https://bitbucket.org/test-pipelines2/javascript-homework/src/master/)
-[Dotnet Core app Build](https://bitbucket.org/test-pipelines2/asp-netcore-pipeline/src/master/)
-
 
 ## OPENSHIFT / REDHAT / Otras tecnologias
 

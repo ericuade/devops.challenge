@@ -1,7 +1,13 @@
   ## Proyecto de integracion continua y Despliegue continuo
 
 ***
- - APPS:
+
+  - **Web** :milky_way:
+    - | repo | pipelines | web |
+      | ---- | --------- | --- |
+      |  |  |    |
+
+ - **App**:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
       | [NODE-APP](https://lnkd.in/dqJv8hE6) | [Pipeline](https://lnkd.in/dRJ8vP5F) |    |
@@ -36,6 +42,6 @@ URL de acceso y Mail donde se van a recibir los correos y notificaciones de moni
 | Openshift Container Platform | [Openshift](https://console-openshift-console.apps.sandbox-m3.1530.p1.openshiftapps.com/) |
 | Nexus repository Manager | [Nexus](http://nexus-eogieglo-itdev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/nexus/#welcome) |
 
-# El codigo python se testea con la version 3.10
+## El codigo python se testea con la version 3.10
 
 [ACTION](https://github.com/ericuade/devops.challenge/actions)

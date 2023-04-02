@@ -15,7 +15,7 @@
   - **Terraform** :earth_americas:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
-      |  |  |    |
+      | [Terraform](https://lnkd.in/dnaY_wdm) |  |    |
 
  - **Bitbucket Pipelines examples** :milky_way:
     - | repo | pipelines |

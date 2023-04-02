@@ -1,5 +1,6 @@
-## Proyecto de integracion continua y Despliegue continuo
+  ## Proyecto de integracion continua y Despliegue continuo
 
+***
  - APPS:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
@@ -12,7 +13,7 @@
 
 ***
 
-## Mail
+  ## Mail
 
 URL de acceso y Mail donde se van a recibir los correos y notificaciones de monitoreo de las APPs
 

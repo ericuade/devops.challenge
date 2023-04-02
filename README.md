@@ -2,12 +2,12 @@
 
 ***
 
-  - **Web** :milky_way:
+  - **Web** :page_facing_up:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
       |  |  |    |
 
- - **App**:
+ - **App**: :computer:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
       | [NODE-APP](https://lnkd.in/dqJv8hE6) | [Pipeline](https://lnkd.in/dRJ8vP5F) |    |

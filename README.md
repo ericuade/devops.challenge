@@ -9,8 +9,8 @@
       | ---- | --------- | --- |
       | [NODE-APP](https://lnkd.in/dqJv8hE6) | [Pipeline](https://lnkd.in/dRJ8vP5F) |    |
 
- - **Bitbucket Pipelines**
- - | repo | pipelines | web |
+ - **Bitbucket Pipelines** :milky_way:
+    - | repo | pipelines | web |
       | ---- | --------- | --- |
       |  |  |    |
 

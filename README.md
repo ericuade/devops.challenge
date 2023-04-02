@@ -7,7 +7,7 @@
  - APPS:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
-      | [NODE-APP](https://lnkd.in/dqJv8hE6) | [Pipeline](https://bitbucket.org/test-pipelines2/node-app/pipelines/results/page/1) |    |
+      | [NODE-APP](https://lnkd.in/dqJv8hE6) | [Pipeline](https://lnkd.in/dRJ8vP5F) |    |
 
 URL de acceso y Mail donde se van a recibir los correos y notificaciones de monitoreo de las APPs
 

@@ -2,25 +2,30 @@
 
 ***
 
-  - **Web** :page_facing_up:
+  - **Web Node JS** :page_facing_up:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
-      | [Servicios](https://lnkd.in/dzdymabZ) | [Pipeline](https://lnkd.in/dmqsiAA3) |  https://it-dev.ar |
+      | [Pagina Servicios IT](https://lnkd.in/dzdymabZ) | [Pipeline](https://lnkd.in/dmqsiAA3) |  https://it-dev.ar |
 
- - **App**: :computer:
+ - **API Python**: :computer:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
-      | [NODE-APP](https://lnkd.in/dqJv8hE6) | [Pipeline](https://lnkd.in/dRJ8vP5F) |    |
+      | [API]() | [Pipeline]() |    |
 
   - **Terraform** :earth_americas:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
       |  |  |    |
 
- - **Bitbucket Pipelines** :milky_way:
+ - **Bitbucket Pipelines examples** :milky_way:
     - | repo | pipelines |
       | ---- | --------- |
-      |      |           |
+      | [SCP Deploy](https://lnkd.in/dDiRVzb4) | [Pipe](https://lnkd.in/dzjXnDr5) |
+      | [AWS S3 Deploy](https://lnkd.in/d3RW9M73) | [Pipe](https://lnkd.in/d2b3WAHb) |
+      | [Build/Test JS](https://lnkd.in/dq3_EXbC) | [Pipe](https://lnkd.in/dPfSMmxT) |
+      | [NET Core Build](https://lnkd.in/d5jBUbAg) | [Pipe](https://lnkd.in/dvnRprC3)          |
+
+***
 
  - **Datadog Monitoreo** :milky_way:
     - | User | pass | URL |

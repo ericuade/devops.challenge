@@ -13,9 +13,9 @@
       | [API](https://lnkd.in/dCprxyyh) | [Pipeline](https://lnkd.in/dJ_rZPWF) |    |
 
   - **Terraform** :earth_americas:
-    - | repo | pipelines | web |
-      | ---- | --------- | --- |
-      | [Terraform](https://lnkd.in/dnaY_wdm) |  |    |
+    - | repo | 
+      | ---- |
+      | [Terraform](https://lnkd.in/dnaY_wdm) |
 
  - **Bitbucket Pipelines examples** :milky_way:
     - | repo | pipelines |
@@ -23,7 +23,7 @@
       | [SCP Deploy](https://lnkd.in/dDiRVzb4) | [Pipe](https://lnkd.in/dzjXnDr5) |
       | [AWS S3 Deploy](https://lnkd.in/d3RW9M73) | [Pipe](https://lnkd.in/d2b3WAHb) |
       | [Build/Test JS](https://lnkd.in/dq3_EXbC) | [Pipe](https://lnkd.in/dPfSMmxT) |
-      | [NET Core Build](https://lnkd.in/d5jBUbAg) | [Pipe](https://lnkd.in/dvnRprC3)          |
+      | [NET Core Build](https://lnkd.in/d5jBUbAg) | [Pipe](https://lnkd.in/dvnRprC3) |
 
 ***
 

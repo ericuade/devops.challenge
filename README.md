@@ -46,6 +46,11 @@ URL de acceso y Mail donde se van a recibir los correos y notificaciones de moni
 | Producto | Descripcion |
 |  ----------- | ----------- |
 | Openshift Container Platform | [Openshift](https://console-openshift-console.apps.sandbox-m3.1530.p1.openshiftapps.com/) |
+
+
+![Openshift](/img/redhatopenshift.JPG)
+
+
 | Nexus repository Manager | [Nexus](http://nexus-eogieglo-itdev-dev.apps.sandbox-m3.1530.p1.openshiftapps.com/nexus/#welcome) |
 
 ## El codigo python se testea con la version 3.10

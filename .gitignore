@@ -3,3 +3,4 @@
 Nodejs/node_modules/
 Python/Backend/FastAPI/bin/*
 .pytest_cache/
+__pycache__/

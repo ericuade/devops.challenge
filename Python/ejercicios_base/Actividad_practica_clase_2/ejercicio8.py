@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# This Python file uses the following encoding: utf-8
+
 # Manejo de cadenas de caracteres
 
 # Ejercicio 1: 

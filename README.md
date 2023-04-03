@@ -1,6 +1,6 @@
   ## Proyecto de integracion continua y Despliegue continuo
 
-# 💪🏿:  STACK Tecnologico del repositorio
+ ## 💪🏿:  STACK Tecnologico del repositorio
  -  Python y FastAPI
  -  Javascript y NodeJs
  -  Github/Bibucket

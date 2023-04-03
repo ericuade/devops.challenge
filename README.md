@@ -13,21 +13,28 @@
 ***
   
   Esta web esta desplegada en un Hosting compartido en un Servidor Centos Linux y se administra con Cpanel.
-  
+
   - **Web Node JS** :page_facing_up:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
       | [Pagina Servicios IT](https://lnkd.in/dzdymabZ) | [Pipeline](https://lnkd.in/dmqsiAA3) |  https://it-dev.ar |
+
+***
 
  - **API Python**: :computer:
     - | repo | pipelines | web |
       | ---- | --------- | --- |
       | [API](https://lnkd.in/dCprxyyh) | [Pipeline](https://lnkd.in/dJ_rZPWF) |    |
 
+
+***
   - **Terraform** :earth_americas:
     - | repo | 
       | ---- |
       | [Terraform](https://lnkd.in/dnaY_wdm) |
+
+
+***
 
  - **Bitbucket Pipelines examples** :milky_way:
     - | repo | pipelines |

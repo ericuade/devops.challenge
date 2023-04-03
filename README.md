@@ -1,8 +1,21 @@
   ## Proyecto de integracion continua y Despliegue continuo
 
+# 💪🏿: 
+Python y FastAPI
+Javascript y NodeJs
+Github/Bibucket
+Bitbucket Pipelines
+Terraform
+Para Automation driven Robot Framework (proximamente, en breve)
+Monitoreo con Datadog
+AWS cloud para desplegar la IaaC y las aplicaciones (En breve)
+
 ***
 
   - **Web Node JS** :page_facing_up:
+
+  Esta web esta desplegada en un Hosting compartido en un Servidor Centos Linux y se administra con Cpanel.
+  
     - | repo | pipelines | web |
       | ---- | --------- | --- |
       | [Pagina Servicios IT](https://lnkd.in/dzdymabZ) | [Pipeline](https://lnkd.in/dmqsiAA3) |  https://it-dev.ar |

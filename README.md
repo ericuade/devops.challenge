@@ -6,6 +6,7 @@
  -  Github/Bibucket
  -  Bitbucket Pipelines
  -  Terraform
+ -  Kubernetes
  -  Para Automation driven Robot Framework (proximamente, en breve)
  -  Monitoreo con Datadog
  -  AWS cloud para desplegar la IaaC y las aplicaciones (En breve)

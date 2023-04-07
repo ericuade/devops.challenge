@@ -118,4 +118,36 @@ for elemento in lista:
         print("Respondiste bien 3 preguntas, el juego termino")
         break
 
+# Ejercicio 6: 
+
+"""
+    Ingresar las notas de los dos parciales de un alumno e indicar si promocionó, aprobó o debe 
+    recuperar.
+    ● Se promociona cuando las notas de ambos parciales son mayores o iguales a 7.
+    ● Se aprueba cuando las notas de ambos parciales son mayores o iguales a 4.
+    ● Se debe recuperar cuando al menos una de las dos notas es menor a 4.
+""" 
+
+print("")
+print("Ejercicio 6")
+print("-----------")
+print("""
+Se ingresa las notas de los dos parciales de un alumno
+""")
+print("")
+nota_1 = int(input("Ingrese nota 1: "))
+nota_2 = int(input("Ingrese nota 2: "))
+print("""
+Si las 2 notas son mayores o iguales a 7 promociona
+Si las 2 notas son mayores o iguales a 4 aprueba
+Si una de las dos notas es menor a 4 , recupera.
+""")
+print("")
+if (nota_1 >= 7 and nota_2 >= 7):
+    print("El alumno ha promocionado")
+elif (nota_1 >= 4 and nota_2 >= 4):
+    print("El alumno ha aprobado")
+elif (nota_1 <= 4 or nota_2 <= 4):
+    print("El alumno debe recuperar")
+
 

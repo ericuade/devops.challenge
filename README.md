@@ -76,7 +76,10 @@ URL de acceso y Mail donde se van a recibir los correos y notificaciones de moni
 | Producto | Descripcion |
 |  ----------- | ----------- |
 | Openshift Container Platform | OpenShift, formalmente llamado Openshift Container Platform, es un producto de computación en la nube de plataforma como servicio de Red Hat. Los desarrolladores pueden usar Git para desplegar sus aplicaciones Web en los diferentes lenguajes de la plataforma. |
-| Node Js sample | [Nodejs](https://lnkd.in/deqmTWVB) |
+| Node Js sample | [Javascript](https://lnkd.in/deqmTWVB) |
+| Django sample | [Python](https://lnkd.in/daDeigcv) |
+| Rails sample | [Ruby](https://lnkd.in/dFVYvFzh) |
+
 
 
 ![Openshift](/img/openshift.JPG)

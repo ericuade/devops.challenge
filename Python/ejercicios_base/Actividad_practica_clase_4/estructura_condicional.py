@@ -95,4 +95,27 @@ print("""
 A continuacion debera responder SI o NO a las preguntas que se le hagan.
 Responda correctamente 3 y el juego acaba.
 """)
-print("Sabe usted el secreto de la vida?")
+
+puntuacion = 0
+
+lista = ["Es python un lenguaje interpretado?",
+         "Python es orientado a objetos?",
+         "Python es multiplataforma?",
+         "Se puede usar python como calculadora?"
+         ]
+
+
+for elemento in lista:
+    print(elemento)
+    respuesta = input("")
+    if respuesta == "si":
+        puntuacion = puntuacion + 1
+    else:
+        print("El juego termino")
+        break
+    if puntuacion == 3:
+        print("")
+        print("Respondiste bien 3 preguntas, el juego termino")
+        break
+
+

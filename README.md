@@ -79,7 +79,7 @@ URL de acceso y Mail donde se van a recibir los correos y notificaciones de moni
 | Node Js sample | [Nodejs](https://lnkd.in/deqmTWVB) |
 
 
-![Openshift](/img/redhatopenshift.JPG)
+![Openshift](/img/openshift.JPG)
 
 ***
 

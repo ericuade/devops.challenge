@@ -231,6 +231,29 @@ print(f"El salario total del Vendedor es: {base_salario_agente + suma_ventas_mes
     y finaliza el programa.
 """
 
+print("Ejercicio 12 - User y password")
+print("------------------------------")
+
+user = "admin"
+passwd = "1234"
+recuento_de_intentos = 0
+user_input = input("Ingrese usuario: ")
+passwd_input = input("Ingrese clave: ")
+
+while user_input != user and passwd_input != passwd:
+    user_input = input("Ingrese usuario: ")
+    passwd_input = input("Ingrese clave: ")
+    recuento_de_intentos = recuento_de_intentos + 1
+    if recuento_de_intentos == 2:
+      print("Se agotaron los intentos, programa finalizado!")  
+      break
+      
+if user_input == user and passwd_input == passwd:
+  print("Login Exitoso!")
+  
+print("")
+
+
 
 
 #Ejercicio 13: 

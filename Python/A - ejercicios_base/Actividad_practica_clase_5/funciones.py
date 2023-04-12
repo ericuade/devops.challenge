@@ -11,6 +11,24 @@
     actividades en tres funciones.
 """
 
+def presentacion():
+    suma()
+    despedida()
+    return
+
+def suma():
+    suma_2 = 0
+    valor1 = int(input("Ingrese valor 1: "))
+    valor2 = int(input("Ingrese valor 2: "))
+    suma_2 = valor1 + valor2
+    print("El resultado de la suma es: ", suma_2)
+    return
+
+def despedida():
+    print("El programa ha finalizado exitosamente!")
+
+presentacion()
+
 # Ejercicio 2. 
 
 """

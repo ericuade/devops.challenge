@@ -99,8 +99,7 @@ def obtener_longitud_cadena(cadena):
     print("La cantidad de letras de la cancion es: \n", len(cadena))
     return  
 
-cancion = texto_cancion_favorita()
-obtener_longitud_cadena(cancion)
+obtener_longitud_cadena(texto_cancion_favorita())
 
 # Ejercicio 5. 
 

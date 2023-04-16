@@ -30,9 +30,9 @@
 
 ***
   - **Terraform** :earth_americas:
-    - | repo | 
-      | ---- |
-      | [Terraform](https://lnkd.in/dnaY_wdm) |
+    - | repo | Pipeline |
+      | ---- | -------- |
+      | [Terraform](https://lnkd.in/dnaY_wdm) | [Pipeline](https://lnkd.in/deDQ9PPJ) |
 
 
 ***
